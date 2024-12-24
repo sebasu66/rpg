@@ -1,0 +1,540 @@
+LAIR OF THE VERMIN LORD
+Paul ‘Wiggy’ Wade-Williams
+BY PAUL “WIGGY” WADE-WILLIAMS
+EDITING & PROOFREADING: RON BLESSING
+GRAPHIC DESIGN & TYPESETTING: ROBIN ELLIOTT
+COVER ART: EMPTY ROOM STUDIOS
+CARTOGRAPHY: JUSTIN RUSSELL & EMPTY ROOM STUDIOS
+COVER DESIGN: ROBIN ELLIOTT
+FIGURE FLATS: JORDAN PEACOCK
+WWW.TRIPLEACEGAMES.COM
+PERMISSION IS GRANTED TO PRINT THIS EBOOK FOR PERSONAL USE ONLY.
+©2009 Triple Ace Games. Hellfrost and all related marks and logos are trademarks of Triple Ace Games. All Rights Reserved.
+THIS GAME REFERENCES THE SAVAGE WORLDS GAME SYSTEM, AVAILABLE FROM PINNACLE ENTERTAINMENT GROUP AT WWW.PEGINC.COM. SAVAGE WORLDS AND ALL ASSOCIATED LOGOS AND TRADEMARKS ARE COPYRIGHTS OF PINNACLE ENTERTAINMENT GROUP. USED WITH PERMISSION.
+PINNACLE MAKES NO REPRESENTATION OR WARRANTY AS TO THE QUALITY, VIABILITY, OR SUITABILITY FOR PURPOSE OF THIS PRODUCT.
+LAIR OF THE VERMIN LORD
+INTRODUCTION
+This adventure is designed for a group of four Novice characters with no advancements. For parties with more members or advancements, the GM should increase the number of opponents accordingly. For this adventure we advise you to add two additional giant rats to each encounter for each Rank the party is above Novice. For instance, if a party of four Seasoned adventures encoun-ters giant rats numbering one per hero, the characters must fi ght a total of six rats—one for each hero, plus an additional two because the party is Seasoned.
+This adventure begins on the second Waescdaeg of Snaermonan, 499 IR. It is the middle of winter, and snow blankets the realm. As this adventure takes place in the Hearthlands, the snow is only a few inches deep except in the hills, where it already lies as deep as three feet.
+The temperature outdoors remains a chilly 15° F (–1 Vigor penalty) during the day and 0° F at night (–2 Vigor penalty) for the duration of this tale. Hence, the characters will need furs and/or winter clothing to avoid suffering from the freezing weather. Inside the temple of Vali, the temperature is one level higher due to the lack of wind. See the Savage Worlds rulebook for the effects of cold weather and the Hellfrost Players’ Guide for how the rules work in this setting.
+A selection of pre-generated Novice characters can be found at our website, www.tripleacegames.com.
+PLOT OVERVIEW
+The path of corruption is a well-trodden road. Many
+begin with small steps. Others run at full pace toward damnation, heedless of their actions and their conse-quences.
+The plot revolves around the corruption of a rich farmer from Dalsetter, a small farming community in the northern Free Lands. Always eager to expand his wealth
+and make a name for himself, the farmer was easily prey for the church of Vali.
+The winter grain stores from Dalsetter and other vil-lages are transported to the mill at Dunross, where they are stored and guarded while awaiting grinding into fl our. Bread is a staple part of the diet across the land of Rassilon, especially in winter.
+A paladin of Vali, Gautrek, a shapeleaper, worship-ping his aspect as lord of vermin, convinced the farmer he could make a fortune by withdrawing his fl our early and storing it in his sheds in Dalsetter. An accident at Dunross would ensure the other villages’ grain and fl our were spoiled. Thus, the only source of fl our over the remaining winter months would be the farmer’s supply. He could, the paladin said, raise prices and make a small fortune, or he could sell the fl our at normal rates and be hailed as the savior of the region. Which option he took was left to his personal choice.
+The farmer, lured by the promise of higher profi ts rather than fame, duly removed his fl our from Dunross, totally unaware of what was to follow. To ensure there was no chance of the other villages retrieving their fl our stocks, the paladin arranged for rats to begin infesting the village. Using an ancient relic, he has called forth an army of rodents to devour the remaining stores.
+What the farmer doesn’t know is that the paladin plans to poison the fl our. While many in the region will die of starvation, those who eat the bread made with the fl our will die a horrible death. Naturally, the farmer will be blamed for this disaster. The church of Vali thus enjoys the spectacle of corruption and decay, all in one fell swoop. Of course, the presence of the heroes is an unexpected one in the paladin’s plans.
+The adventure breaks down into three parts. In part one, the heroes are hired by an innocent farmer-merchant to travel to Dunross and collect some fl our destined for Dalsetter (the rich farmer isn’t the only landowner in the village, though he is the largest). Arriving at Dunross, they quickly discover the place is overrun with rats. As they pre-pare to leave, the rat army invades, forcing them to fl ee.
+LAIR OF THE VERMIN LORD
+LAIR OF THE VERMIN LORD
+In part two, the heroes visit Dalsetter, where they uncover both strands of the dastardly plot—the farmer’s complicity and the paladin’s poison. This is mainly a roleplaying section, though there is some combat. In the fi nal part, the heroes travel to a temple of Vali, where they face the paladin and his rat legions. This is very much a combat-oriented chapter.
+All being well, by the end of the adventure the heroes will have stopped an insidious plot which could have resulted in the deaths of hundreds or thousands of in-nocent citizens.
+TIMELINE OF EVENTS
+D-10: A paladin of Vali, god of vermin and pestilence,
+corrupts a local merchant, promising wealth or fame in return for performing a simple act.
+D-7: Caravans from Dalsetter arrive at Dunross and empty a warehouse. Large numbers of rats begin infest-ing Dunross hours later.
+D-6: The mayor of Dunross sends a letter to the au-thorities in Aslov asking for assistance in combating the rat plague.
+D-5: A caravan set for the Citadel leaves Dunross. It is attacked by vicious swarms of rats as it rests at a travel tower that night. The adventurers discover the aftermath on their journey to the mill.
+D: The adventure begins. D+1: The heroes encounter an orc ambush and a
+deserted tower. D+2: After coming across a slain rider carrying a
+message from Dunross, the characters arrive at the mill. What happens from here on depends on the actions of the adventurers.
+PART 1: DEATH IN DUNROSS
+The heroes begin the adventure as strangers to each other, lured together by a promise of work and material rewards. Should this adventure be run after the heroes have already met, the GM must change the beginning accordingly.
+The Four Sheaves isn’t the best tavern in Rassilon, but it’s warm, and the food is almost palatable. Two days ago, you answered a fl yer nailed in the market square of Aslov, calling for men and women of stout heart seeking adventure. The no-tice said to meet here, a small tavern in a village a few miles north of Aslov.
+On arriving, you found the table you were told to wait at was not empty. It seems others an-swered the call as well. There is no sign of the patron you were told to meet, so there seems little else to do but spend a few coins on food and drink.
+Give the heroes a chance to introduce themselves. There’s no need to rush this opening. Only when the heroes have fi nished introductions should you continue with the text below.
+The tavern door opens and in steps a well-dressed man. The man takes off his cloak and shakes off the snow. He approaches your table without look-ing around, bows politely, and takes the last seat.
+“My name is Rodgar ap-Annwn,” he says after or-dering another round of drinks, “a farmer from the village of Dalsetter. Thank you all for coming.
+“In return for 50 gold scields apiece, I wish you to take a cart to the village of Dunross and col-lect a shipment of fl our. The fl our then needs to be taken to the baker in Dalsetter. It shouldn’t take you more than a few days each way. I would go myself, but I’m forced to stay in Aslov due to other business. Take what I owe you for your services out of the money the baker pays you and drop the rest off at my house. The baker knows where I live. I’ll collect it later.
+“I know it’s poor weather for traveling, but word has reached me the baker has run out of fl our. A poor harvest and cold winter meant we were rather short of fl our before the snows began. These are emergency supplies, vital if Dalsetter is going to survive the winter.”
+He reaches into his jacket and pulls out a scroll, which he places in front of you. “This is a map of the area, just in case.” He then pulls out an enve-lope from his jacket. “This is a letter authorizing you to collect the fl our for me. Just hand it over to the granary supervisor in Dunross.”
+Rodgar then explains that Dunross has a large mill, which serves the neighboring farming villages. Grain is transported to the village and stored in granaries before being ground into fl our. This system gives the smaller villages in the surrounding area access to a mill without the expense of having to build and maintain their own.
+Assuming the heroes accept the job, Rodgar shakes them by the hand and leaves. Outside the tavern is a cov-ered wagon. Two surly-looking horses, nuzzling through the snow for grass, are tethered to the cart. Thick winter blankets are thrown over each horse. The wagon cur-rently holds several bags of oats, enough to feed the horses for four days.
+Cart Horses (2): See page 22.
+WAGON Acc/Top Speed: Half animal’s Pace/Top Speed is animal’s Pace + running die; Toughness: 10 (2); Crew: 1+10; Cost: 100 gs
+HELLFROST ADVENTURE: #01
+A DANGEROUS ROAD
+During the journey, the heroes have three encoun-ters. These occur in the order they are presented below. The fi rst occurs in the afternoon, the second in early evening, and the third in the morning on the second day of travel.
+AMBUSH!
+After a quick stop to eat lunch and rest the horses, you set off again. The snow underfoot is thin and crunchy, a brief fl urry fi ve days ago being the last snow to fall in the region. Yet the harsh winter
+is approaching, and soon the landscape will be blanketed in white. The road begins to climb to-wards the forbidding slopes of the Jagged Peaks, a region inhabited by all manner of fearsome beasts.
+Check for Surprise. Those who pass the roll are quick enough to react as four orcs armed with bows pop up from behind nearby gorse bushes. The orcs are 15” from the right side of the wagon and have Light Cover from the bushes.
+Monsters: The orcs are part of a small hunting party from the Jagged Peaks, out looking for meat and trea-sure. They have already killed one person and taken some horse fl esh (see p. 5), but they seek more spoils. Although they don’t consider the heroes edible, their horses certainly are. The orcs are also hopeful the wagon contains food or booty.
+Orc Warriors (1 per hero): See page 22. Tactics: On the fi rst round, the orcs unleash arrows
+at the party. If the heroes don’t move to attack, the orcs continue this tactic. To engage in melee, the orcs must throw down their bows and ready their shields, which are slung across their backs. This takes an action. Their short swords are thrust into the ground beside them and can be withdrawn easily (a free action).
+Treasure: Once the orcs are dead, the heroes are free to search their corpses. Aside from a few coins spread among the bodies (2d10 gold scields worth), one of them has a well-made dagger, obviously not of orcish origin. Another is wearing heavy riding boots, which are obviously too small for him, as his feet poke out from cuts in the toes.
+THE DESERTED TOWER
+As the sun sets, the temperature begins to drop steadily, and the sky clears. The night looks like it is going to be very cold.
+Ahead, you spy the distinctive silhouette of a travel tower, one of the refuges constructed by the Roadwardens who protect the trade routes and byways of the land. They are sparsely spaced off the main roads, so fi nding one is a boon. As well you know, for a small donation, travelers are welcome to stay at the towers overnight. Given how dangerous the lands have become, few hon-est folk shun the hospitality or refuse to donate a few coins to help maintain the towers.
+As you approach, you see the tower may already be in use. Two snow-covered wagons stand out-side. Strangely, there is no sign of any horses tethered to the hitching post, nor are there any guards. Looking up, you see no smoke from the chimney, either. As the tower comes into better view, you notice the door is wide open—unusual
+GM INFORMATION: ASLOV
+Aslov lies at the edge of the Jagged Peaks and is the fi rst settlement of note south of Hellfrost Pass. It is also a town entering its twilight years. The city has far exceeded its capacity to house refu-gees. Hundreds of desperate souls live outside in tents, surviving on charity and what little food they can scavenge from the surrounding countryside. The area has become known as Tent Town. The city gates are closed at night, but the city guard patrols the perimeter around the clock, for in Tent Town, a scrap of black bread or sliver of rancid meat is enough motive to commit murder. Inside, the city is divided into the High Quarter, which houses the rich and powerful, as well as the merchants’ warehouses, and the Old City, where the majority of folk live. Whereas the High Quarter remains uncrowded (the citizens have refused to allow refugees to live there), the Old City is teeming with people, the ma-jority of which are refugees fl eeing their homes in the High Winterlands. The wealthy of Aslov never walk the Old City without armed guards. Disease is a constant problem, as is the ever-in-creasing crime level. Murder rates have doubled, with citizens killing each other for a crust of bread, and theft has risen by many times as citizens rob each other to pawn goods so as to buy food. Doz-ens of citizens vanish each night. Many are simply murdered for their few possessions and their bod-ies dumped in the overworked sewers, but some are sacrifi ced by the growing number of cultists or, more sickeningly, become part of the food chain. Despite being surrounded by good farmland, the shortening summers and infl ux of people has led to very low food supplies and starvation is a constant problem. Food riots have broken out several times, the last one having to be quashed with lethal force to restore order to the town.
+LAIR OF THE VERMIN LORD
+even on bright, summer days and unheard of in deep winter.
+The air is still and silent. No birdsong breaks the quiet dusk.
+There are several clues to be found outside the tower.
+The Ground: A hero making a Notice roll spots the ground around the hitching post is torn up, the thin layer of snow having settled unevenly. A few minutes brushing away the snow reveals the frozen mud has been trampled by several horses.
+A Tracking roll is required to make any sense of the jumble. With success, the hero estimates there were four horses, and someone or something spooked them. Fresh grooves in the hitching post and snapped leather straps indicate the horses broke free, rather than being released. There are clear indications of horses galloping away to the west.
+A successful Common Knowledge roll allows the hero to estimate the wagons arrived at least fi ve days ago—that was the last time it snowed heavily.
+Wagons: Once within 12”, the heroes can see a crest imprinted onto the canvas covering of the wagon. It shows two crossed barley stalks over a letter “D.” The dye is extremely faded, an obvious indication the cover-ings have been used for some time.
+Any hero inspecting the rear of the wagons automati-cally notices the canvas covering is shredded. Within each are the shattered remains of around 20 barrels. There are no markings on the broken wood. A Notice roll reveals traces of white powder among the snow which has blown inside. Any hero can identify the substance as fl our.
+A character who examines the interiors notices the fl oor is heavily scratched. He cannot deduce what caused the scratches or when they were made.
+INSIDE THE TOWER
+The tower has just two rooms, one on each fl oor. Downstairs: The room is a total mess. Snow has
+blown in through the open door, fi rewood lies scattered over the fl oor, and the crates of provisions left here by the Roadwardens are smashed, their contents gone. A successful Notice roll reveals faint traces of blood on the fl oor around the fi re and on the staircase. With a raise, the hero notices tiny paw prints in the blood. Identifying the tracks requires a Tracking roll. With success, the hero deduces they were made by rats.
+Any hero making a successful Common Knowledge roll can deduce the fi re was in the process of being stacked when whatever fate befell the tower occurred.
+Upstairs: The upstairs chamber is a scene of carnage. Four skeletons lie on the bare, stone fl oor, which is cov-ered in frozen blood. Their weapons, short swords, lie on the fl oor beside them, smeared with blood.
+A Notice roll from a hero studying the bones reveals hundreds of tiny bite marks. There is not a scrap of fl esh
+left on the bones. Most of the skeleton’s clothing is gone, apparently torn away, but one fragment shows the sym-bol of two barley stalks crossed over a “D.”
+Though the heroes may be wary of staying in the tow-er, it is a far safer option than risking camping outside. A heavy bar allows the front door to be locked from the inside and there are no windows—only narrow arrow slits. Should the heroes decide to sleep outdoors, the GM should feel free to have them attacked by a small band of orcs or perhaps a pack of hungry wolves. The temperature outside also drops to an uncomfortable –8 degrees F.
+Spending the night in the tower results in no encoun-ters, and the fi re keeps the temperature comfortably warm.
+A DEAD RIDER
+Several hours later, the heroes pass through a small
+copse. Lying in the middle of the path is a riding horse, its body riddled with arrows. On investigating, the he-roes quickly discover the rider lying in the scrub nearby, a single arrow in his back.
+A Healing roll allows a hero to deduce the corpse is maybe three days old. The arrows are black-fl etched and are man-killers. A successful Knowledge (Orcs) roll or a Common Knowledge roll at –2 reveals the arrows are of orc manufacture. With a raise on the Knowledge (Orcs) roll, the hero recognizes these as belonging to the Eye Piercer tribe, brutes renowned for their prowess with bows.
+The horse is missing several large chunks of fl esh. A successful Survival roll reveals the fl esh has been hacked away rather than torn off by wolves or other predators. Whoever cut the meat was no skilled butcher.
+Any hero searching the corpse of the rider auto-matically fi nds a crumpled letter. Give the players Player Handout #1. The letter is dated one week ago. The rider has no coins, jewelry, weapons, or indeed anything other than his clothes. He is even missing his boots.
+DUNROSS
+Following the branch from the road, you approach the village of Dunross in the early afternoon. Through the trees which line the hills you spy thin columns of smoke, too small for major fi res, but too thick to be those of chimneys.
+Rounding a bend in the road, you spy the village. An earth rampart topped by a stout fence protects the village, broken by a double gate. The gate is currently closed. A stream runs alongside the road leading to the village. Chunks of ice bobbing up and down indicate someone is keeping the stream running.
+As you approach, a group of burly guards jump
+HELLFROST ADVENTURE: #01
+down from barrels they were using as seats and call out for you to halt, leveling their crossbows to ensure you comply.
+Should the heroes not stop the wagon, one of the guards fi res a warning shot over their heads. If this doesn’t elicit the intended result, they open fi re on the heroes. Hope-fully, the heroes comply with their wishes. Once the wagon stops, the leader of the band approaches the wagon.
+“Turn back,” he says in a gruff voice. “The village is under quarantine. No one can enter.” He then turns his back on you and begins to walk back to his post.
+The guard returns to the wagon if the heroes open dialogue. Depending on the heroes’ comments, the guard can reveal the following information.
+* “I don’t care what your letter says. You still can’t come in!”
+* “Dalsetter needs fl our? Ha! All they’ll get from us is dust and disease. Go on, get away from here before the rats bite you.”
+* “Rats, that’s what I mean. Hundreds of the blighters. They’ve eaten most of the supplies and are spreading pox among the citizens.”
+* “Started appearing a week ago now: just a few at fi rst, then more and more each day. We’ve tried everything to get rid of them, but nothing works. Little sods seem immune to poison and the rat-catcher is working overtime.”
+* “Nosey aren’t you? That’s oil in those barrels. If it comes to the worst, we’ll roll them into the village and burn the rats out!”
+The guard is an old, experienced soldier and cannot be Intimidated to allow the heroes entrance. However,
+LAIR OF THE VERMIN LORD
+he can be Persuaded with a suitable story (preferably roleplayed) and a –4 penalty. Each 5 gold scields in bribes grants a +1 bonus to this roll, to a maximum of +4. Characters with Healing or herbalism skills or the healing spell give the speaker a +4 bonus so long as they can prove their skills—the village needs good heal-ers. With success, the guard sighs heavily and orders the gates opened. He then waves the wagon through. On a failure, he refuses to open the gates.
+Once inside, the heroes quickly learn the guard was not joking about the rats. They swarm around the ground like a black carpet, biting at legs, scratching at doors, and clambering up buildings. As the wagon moves forward, it is accompanied by squeals and crunches as the wheels crush rats beneath them. There is no sign of any cats (the rats ate them), and the only dogs are vicious terriers, snarling and snapping at scurrying rodents.
+The black columns of smoke the heroes saw from afar are from dozens of bonfi res fuelled by dead rats. Their acrid smoke drifts lazily into the clouding sky.
+The heroes can certainly take the time to club a few rats if they so wish, but their efforts achieve very little. There are simply too many of them to handle. Even burst spells have little effect, as the rats are currently quite dis-persed. Chances are a spellcaster will suffer the Siphon-ing before he can kill more than a few dozen.
+Town Watch (4): See page 23.
+IMPORTANT FOLK
+Dunross has a few important folk the heroes may
+wish to talk with while they are here. None of the NPCs are interested in fi ghting the heroes, thus they are not given full stat blocks.
+HEALER, FLORA GODWINSDOTTIR
+Dunross has no priestess of Eira or Sister of Mercy, but there is an herbalist who doubles as a healer for basic injuries. She has no magical powers. Treat her as a Citizen (p. 22) but with Healing d6 and Knowl-edge (Herbalism) d6. She has no herbal remedies in stock.
+“These rats will be the death of us all! They have eaten most of the fl our already and their bite spreads disease. Every one is riddled with fl eas as well. Fortunately, they don’t spread disease!
+“If you get bitten, the area around the bite swells up and goes numb. That’s if you’re lucky, anyway. In many folk their blood turns black, and when it reaches the brain, they develop a raging brain fever. Many have died, their body wracked with spasms and their bile as black as pitch.
+“My stock of herbs has run out, and it’s all I can do to clean the wounds and stop the sickness spreading.”
+MAYOR, UMBOLD AP-RUTGER
+“It’s a disaster! Everything edible is gone! Oh dear gods, what have we done to deserve this pestilence? And where are the soldiers from Aslov, eh? We sent a messenger to Aslov a week ago, but we have heard nothing! Nothing! They can’t have forsaken us! I’m sorry, I’m sure your business here is important, but I have more pressing matters.
+“What? Evacuate the village, in this weather? Are you insane? We have to protect the granaries! The outlying villages need these supplies! Anyway, we haven’t any wagons to spare—the farmers bring their own wagons with them.”
+The mayor reacts with cries of anguish if shown the letter taken from the dead horseman and begins ranting about the lack of protection for caravans.
+Treat the mayor as a Citizen (p. 22) but with Intimida-tion and Persuasion d6.
+PRIESTESS OF EOSTRE, AGNES LEAFDOWN
+“Disaster has befallen us! Eostre has judged us unworthy of her protection! I tried creating a wall of thorns across the bridge, but the rats swam the stream. My power to control beasts is of no use, for some foul summoner has brought forth these beasts with fell arts, and even my ability to create food cannot feed all the villagers. I fear the hand of dark gods is at work here!”
+Treat Agnes as a Citizen (p. 22) but with the Arcane Background (Miracles) Edge and Faith d8. She knows the following spells: barrier, beast friend, bolt, and feast (see page 18).
+RATCATCHER, GEB THREE-TOES
+“Business has never been so good! Rats began coming in over a week ago now I ‘spose. ‘Course, we always had rats here, but never enough so me and Snapper couldn’t handle ‘em.” He indicates a vicious looking one-eyed terrier at his heels.”
+“But these rats is vicious. Biting and snapping at goodly folk like they was something good to eat. Never seen so many rats at once, and I been doing this job nigh on 20 years now. If you fancy honest work, I can sign you up to the Guild. Good rates of pay—one silver per ten rats. Man could make a fortune in a day, if he survives the pox.”
+Treat Geb as a Citizen (p. 22) but with Shooting d8
+HELLFROST ADVENTURE: #01
+and a sling (Range: 4/8/16, Damage Str+d4). Although only a terrier, Snapper uses the stats of a dog because of his ferociousness.
+THE GRANARIES
+The granaries are located on the east side of the vil-
+lage, across a stream. Each is marked with the symbol of one or more farming families from the neighboring villages. Rodgar’s granary is marked X on the map of Dunross.
+As the wagon trundles toward the granaries, a scruffy, hunchbacked man limps over to you and waves for you to stop. While he waits, he swats a few rats with a gnarled stick, a solid lump at one end.
+“I’m Ulfwyn,” he says, “Master of the Granaries. Do you have business here, good sirs?”
+Ulfwyn carefully inspects the letter of introduction, glances repeatedly at the heroes, scratches his chin, and then nods.
+“Right this way, sirs,” he says, hopping onto the wagon. “That one there, number two. I must say, though, this is most unexpected. We weren’t expect-ing anyone from Dalsetter again so soon. Still, it’s the second time in recent days strange things have happened, so I shouldn’t be surprised.”
+If questioned about his last statement, Ulfwyn nods several times before replying.
+“A handful of hours ‘fore the rats came, a train of wagons belonging to the owner of granary one arrived and loaded the entire contents. A master-ful stroke of good fortune! The man must be very devout to receive such a blessing. I don’t think he lost anything to the rats. At least some folks‘ll eat this winter.”
+The heroes can see the doors of Granary 1 (the one to the left of Rodgar’s) carry a single merchant’s mark, an apple tree with a sheaf of wheat beneath it. Ulfwyn has no idea who owns the granary or where they come from—he simply identifi es goods by their mark and stores them in the correct granary. However, he does remember two important facts—the leader of the wagon train said his name was Otto Edmundsunu and he men-tioned the village of Dalsetter.
+The mystery merchant mark belongs to Penda Ranulf-sunu, a well-known and respected farmer. In many ways, he is another victim of recent events. He is encountered in the next chapter.
+Rodgar’s granary has several merchant marks on it. Ulfwyn points to one showing a load of bread with a stalk of barley growing from it and identifi es that as their
+patron’s. Ulfwyn unlocks the doors to Rodgar’s granary and shows the heroes inside.
+Within are a stack of sacks, all showing signs of hav-ing been gnawed upon. The fl oor is littered with rat droppings, a few rat carcasses, and the contents of many sacks of fl our. Of the 50 sacks in here, only 30 are fi t for use. Loading the hefty sacks takes around an hour, allowing characters opposed to manual labor the chance to go and talk to the locals. As soon as the last sack is loaded, proceed with the section entitled The Death of Dunross (see below).
+Should the heroes question Ulfwyn about the mer-chant’s mark on the wagons at the trade tower, he points to the central southern granary.
+“Two wagons came by about six days ago, now. Loaded sacks of fl our onto the wagons and headed off. They’d lost a few to the rats, but things weren’t so bad back then. I think they were heading to the Citadel. You know, that vast fortress in the Jagged Peaks where they store all the magic. They had the right paperwork and that’s all I cared about.”
+GRANARY #1
+Any hero investigating Granary #1 must make a No-tice roll. With success, the hero detects no sign of rat activity around the building—no paw prints in the snow, scratches at the door, signs of digging beneath the walls, or droppings are evident. It is the only granary showing no sign of rats.
+On a raise, he discovers strange markings carved on the doors and along the outer walls. Deciphering the runes requires a Knowledge (Arcana) or (Religion) roll. Followers of Eostre, goddess of nature, may use Com-mon Knowledge, instead. With success, the hero knows the runes are wardings. Though they have no magical powers, they are often inscribed on warehouses and granaries in the hope Eostre, goddess of agriculture, is paying attention and keeps rats away.
+Searching the other granaries reveals no such mark-ings. However, there is clear indication that each granary once had similar glyphs—they have all been deliberately scratched out.
+THE DEATH OF DUNROSS
+Barely is the last sack loaded and secure when high-pitched screams echo across the village. Looking around, you spy a woman clutching her face with one hand and pointing at the western wall with the others.
+At fi rst you can see nothing but an eerie black mass, boiling over the fence. Then, with horror, you recognize the mass for what it truly is—a vast horde of rats! Another scream from the east, another wall of rats, gnashing, hissing, biting,
+LAIR OF THE VERMIN LORD
+clawing. Among the swarm are other rats, each the size of a small pony, their yellow eyes glinting with malicious intent.
+Panic sweeps the village in seconds, as the rats advance on the terrifi ed locals. As you watch in horror, villagers are dragged to the ground under the weight of rats and viciously attacked. The scent of blood quickly fi lls the air, stirring the rats into further frenzy and spooking your horses.
+There is absolutely no chance the heroes can save the village. There are effectively an infi nite number of rats, both giant and swarms. All they can do is hope to escape and save a few souls. Should the heroes try to do any-thing other than escape, send a rat swarm against them. If the swarm is killed, send another and another until the heroes either get the message or are slain.
+The cart begins 32” from the gate and moves at Pace 8. It cannot move any faster due to the panicking villag-ers in the way. Deal initiative cards as normal. This isn’t a chase—it’s a battle. The cart moves on the driver’s action card and requires an action (but no Riding roll) to keep the wagon moving straight and control the panicking horses.
+On the fi rst round, 1d4 giant rats leap onto the back of the wagon and begin savaging the heroes. Each round thereafter until the cart is out of the village a further 1d2 giant rats attack the party. Each round of combat, both horses automatically take 2d4 damage on the rats’ initia-tive card from the numerous rat swarms they must move through.
+This can be negated for a single round if a hero de-stroys a swarm in front of the horses before the rats act in a round, or if the horses can be persuaded to make a Fighting roll and stomp a swarm into the snow and mud. Convincing the frightened horses to attack requires a Riding roll as an action from one of the characters. The horses can then attack on their next action. This proce-dure must be repeated each round.
+If one horse is Shaken or killed, or both are Shaken in the same round, the cart slows to Pace 4. Should both be slain, the cart stops—it’s time for the heroes to start running. Running heroes are attacked by a single swarm, which follows them until it is destroyed. At that point another swarm attacks. There is no end to the number of rat swarms available.
+Heroes may take time out from killing rats to rescue people near the cart. Trying to save the entire village is foolish—saving a few souls is worthy of praise. Each round, 1d6 villagers are close enough to the cart to res-cue. Aiding one requires a Strength roll as a Cooperative action (the villager assists the hero by trying to clamber on the wagon). Assisting two citizens still counts as a single action, but the hero suffers a –2 penalty to his Strength rolls as he can only use one arm per villager instead of both his arms. Those the heroes do not rescue by the end of the round are torn to pieces by rats.
+The escape should be exciting and scary, but it should
+not be a massacre (unless the heroes elect to try and save the village).
+Fortunately for the heroes, the guards outside were opening the gate for guard change when the rats at-tacked. This saves the heroes having to waste time open-ing the gate. Only one guard is left, surrounded by rats kept at bay by his burning torch. He realizes the village is lost and plans to ensure the rats never escape.
+On the round the heroes reach the gate (with or with-out the cart), the guard is overpowered by the rats. As his dying action, he pushes over several barrels, whose contents fl ow rapidly into the village. He tosses the torch to the heroes and screams, “Burn them! Burn them all!” as the rats rip him to pieces. Throwing the torch into the oil automatically starts a raging fi re. The fi re quickly ignites the other barrels and spreads into the village. The squeals of burning rats and stench of burning fl esh fi ll the air long into the night.
+Should the heroes refuse to burn the village, perhaps fearful of killing innocents, a villager inside the walls spots the oil and ignites it. Whatever happens, Dunross must burn!
+Giant Rats (unlimited): See page 23. Rat Swarm (unlimited): See page 23.
+PART 2: THE VILLAGE OF DALSETTER
+Any rescued villagers thank the adventurers. They plan to march to Aslov and inform the ruler in person. They beg the characters to fi nd out what caused the at-tack, so other villagers do not suffer a similar fate.
+Whether or not the heroes escaped Dunross with the fl our, Dalsetter should be their next destination. As well as being closer than Aslov, it was mentioned by Otto Edmundsunu, the mysterious visitor. Whether or not his visit just before the rats appeared is a coincidence is something the heroes must learn for themselves.
+Heroes determined to return to Aslov should be al-lowed a Common Knowledge roll. With success, they know Dunross is outside of Aslov’s jurisdiction and the city has problems of its own—such is the nature of life in the Free Lands. That aside, Dunross is dead and likely cannot be rebuilt under the snow’s melt in spring. Ven-geance, however, does not care about the weather.
+OPTION
+If the heroes have access to burst, they have an area ef-fect spell and thus the potential to deal with a swarm. In this instance, on round three, instead of 1d3 gi-ant rats, a single swarm attacks the cart. The rats pile onto the back of the cart and begin attacking the heroes. The sacks are fl ammable and have a chance of catching fi re if a fi re trapping is used.
+THE CITADEL
+The party may wish to visit the Citadel, which Ulfwyn mentioned in passing. It is common knowledge that the Citadel is home to an organization known as the Reli-quary. Their sole purpose is to locate, seize, and store magic items, thus preventing them from being misused by misguided individuals. The organization has no chari-table side and provides absolutely no assistance to the heroes. Indeed, if the heroes turn up at the Citadel (it takes three days to reach the fortress from Dunross), they are denied entrance and warned to leave or face dire consequences.
+Heroes thinking of raiding the Citadel can make a Common Knowledge roll. With success, they have heard of the terrible traps, fearsome guards, and powerful magic which guard the vaults. In the centuries since the Reliquary was founded, no one has ever gained illegal access to their hoard and lived to tell of their exploits.
+If the party is adamant about launching a break-in, it’s quicker just to say their characters die a horrible death within minutes of entering and move on to another ad-venture or restart this one with new characters hired to investigate the rat problem—they have absolutely zero chance of success.
+DALSETTER
+Dalsetter is a small village enclosed behind a stout, wooden palisade, which is typical in these troubled times. The gates are open during daylight hours. The two guards on duty give the heroes only a cursory glance. At night, the number of guards outside the gates is doubled, the gates are barred from the inside, and two guards stand on duty behind the gate.
+If asked, they provide directions to any location in the village the heroes may seek. These are likely to include the mayor (Agdi Skulisunu), the baker (Horsa), a healer (Eowyn Guthrunsdohtor), the house of the merchant who hired them, the merchant whose mark is the apple tree and wheat sheaf (Penda Ranulfsunu), a general store, and an inn (The Four Sheaves). All these locations are detailed individually below.
+Important Note: For each whole day the characters remain in Dalsetter, Gautrek summons one additional rat swarm using the Idol of the Rat King (see page 21). He does not summon a swarm on the day the characters depart the village for his lair (although he may do so when the heroes fi nally get to meet him).
+Watch (2): See page 23.
+THE BAKER
+A gangly youth wrapped in bulky furs runs up to the
+characters as they approach the bakery. He enquires as to whether they are escorting the fl our shipment from Dunross. Should the heroes be on foot, the youth looks perplexed as to the lack of wagon. He then shows them to the back door of the bakery and calls for the baker.
+Characters who successfully deliver the shipment of fl our are handed 20 gold scields per sack by Horsa, the local baker. Out of this they are expected to take the 50 shields they are each owed and then deliver the rest to Rodgar’s house. Horsa reminds the heroes of this, hav-ing received a message to that effect from the characters’ patron yesterday.
+Should they inform the baker the fl our is ruined or has been eaten by rats, a deep frown crosses his face.
+“That’s worse than bad” the baker sighs. “No fl our means no bread over winter. Folks are having a bad enough time as it is. This will cause us a lot of problems. Still, I’m sure you did your best, but I can’t pay you for something you haven’t deliv-ered. If you’re owed money, you’ll have to take it up with Rodgar.”
+Horsa the Baker: Treat as a Citizen (page 22).
+THE HEALER
+Dalsetter’s only healer is Eowyn Guthrunsdohtor, a
+wise woman trained in the art of herbal magic. While she
+HELLFROST ADVENTURE: #01
+GM INFORMATION: THE CITADEL
+The Citadel serves as the headquarters of the Reli-quary. Located on the slopes of the Jagged Peaks, the fortress appears as little more than a small castle of antiquated design. In truth, the fortress extends far beneath the mountain. The upper castle contains mainly living quarters of the soldiers and servants, kitchens, and mundane stores. A visitor would not think it any different from a typical castle of old. On the lower levels, reached only by hidden stair-cases, are libraries, laboratories, and vaults housing a plethora of magical relics. The deeper one goes, the more powerful the relics stored there become. Naturally, the guardians, both mundane and magi-cal, also become more powerful. Numerous glyphs, as well as more mundane traps, protect all of the vaults. In addition, members of the Guardians of the Arcane, the militant arm of the Reliquary, constantly patrol the corridors. It is be-lieved that the vaults are thief proof, and certainly no thief has ever boasted of cracking the security. This isn’t to say none have tried; only that none have succeeded (most do not survive the attempt). Access to the vaults is strictly limited, and only se-nior Arcanologists have ready access. To protect these sages from would-be thieves, and ensure none get the idea of selling artifacts, a bodyguard of two to four Guardians always accompanies them.
+LAIR OF THE VERMIN LORD
+is unable to magically heal any injuries older than one hour, she can provide some relief through her herbal brews. With it being winter she has been unable to fi nd many of the plants she requires, and so has only a small supply of dried ingredients to work from.
+Eowyn has a small stock of dried herbs and can brew up a handful of remedies. The type of remedy, the quan-tity available, and the cost in gold scields per dose are shown below. Prices are non-negotiable. Eowyn won’t sell her dried herbs to outsiders under any circumstanc-es—she needs them to care for the locals over winter.
+Remedy Quantity Cost Antibacterial 3 25 Healing* 10 10 Regenerative 2 50 Restorative 2 35 * From these ten doses the heroes must decide the
+type of injury they want to balm to help cure (burns, cuts, etc.). Thus, the party could purchase eight for cuts and two for burns, or four cuts, four breakages, and two burns, or any other combination.
+Eowyn Guthrunsdohtor: Treat as a Citizen (page 22) but with Smarts d8, Knowledge (Alchemy) d8, and Survival d8.
+THE MAYOR
+The mayor of Dalsetter, Agdi Skulisunu, is a busy man.
+Getting to see him quickly requires both an Intimidation or Persuasion roll and a good reason. Mentioning the loss of Dunross certainly counts for the latter. If the hero mentions vast swarms of rats, his skill roll is made at +2. With success, the party is shown into the mayor’s offi ce. Failure means they must wait an hour.
+Skulisunu listens to any tales of rats and the destruc-tion of Dunross in total silence. Only when the heroes are fi nished does he speak.
+“Dreadful, dreadful news,” he says, shaking his head slowly. “The whole village destroyed, you say? Rats everywhere?” He pauses for a long mo-ment. “I don’t know what to do about it, really I don’t. I can send a rider to Aslov to ask for assist-ance, but what good will that do the poor citizens of Dunross? At best they might send us some food to ensure we survive the coming winter. Still, I thank you for your bringing this terrible news to my attention. I shall, of course, order the watch to be more vigilant.”
+He instantly recognizes the apple tree and wheat sheaf merchant mark as that of Penda Ranulfsunu. Raising sus-picions about Penda being involved in the activities at Dunross causes the mayor to defend his friend.
+“Nonsense!” Agdi scoffs loudly. “I’ve known Penda and his family for years. The man is a major landowner in these parts and as honest as the day
+is long. What reason would he have for destroying Dunross, eh? His grain needs milling as much as the next. No, I think you are mistaken in your ac-cusations. This meeting is over. Good day!”
+One way to learn more about Penda without raising suspicion is not to mention any complicity in the crime, but instead simply to state that Penda had a warehouse in Dunross
+Unless the mayor has terminated the meeting, he can arrange for some basic healing for the party as thanks for bringing him the terrible news. He sends them to see Eowyn Guthrunsdohtor, who cuts her prices in half. If the party has already visited her, the mayor does not of-fer a refund.
+Mayor Agdi Skulisunu: Treat as a Citizen (page 22), but with Intimidation and Persuasion d8 and the Charismatic Edge (Charisma +2). He carries a short sword (Str+d6), more a sign of offi ce than an offensive weapon.
+THE FOUR SHEAVES
+The Four Sheaves is a small inn of little renown. Much
+of its business comes in fall, when merchants and farmers heading to and from Dunross pass through the village.
+The inn boasts a single private room, two twin rooms, and a sleeping area in the main bar. The bedrooms are poorly furnished, though each contains a fi replace and a stack of wood. Food and drink are palatable, though dur-ing winter there is little variety. Thanks to the fl our short-age there is no bread. All the heroes can order is moldy cheese, dried meat, and weak vegetable broth, washed down with warm beer and thin wine (red or white).
+Food/Drink Cost (in silver) Cheap meal 5 Beer, 4 pint pitcher 2 Wine, 1 pint pitcher 3 Accommodation Cost (in silver) Communal bar 2 Shared room 4 Private room 8 Bath 1 Stabling, with oats 5 per horse
+GENERAL STORE
+The general store, like many such businesses across
+Rassilon, suffers from supply problems in winter. The proprietor, Rudwulf Torvinsunu, keeps the basics in stock for local customers but cannot acquire much in the way of town or city goods or high-priced items (which are manufactured elsewhere) once the snow begins to settle.
+Available goods are detailed below. The standard availability rules from the Hellfrost Players’ Guide ap-ply. Rudwulf charges outsiders 125% of the normal value in winter, though he can be haggled down. A successful Persuasion roll lowers the price to 110%, while a raise reduces it to the standard price. Prices can never drop
+HELLFROST ADVENTURE: #01
+below this value. Note that Rudwulf ’s mark up is applied after any availability increase.
+For instance, a metal fl ask sells for 10 gs and has an availability code of T. The base price in any village is au-tomatically increased by 50%, giving a base price of 15 gs. Rudwulf ’s initial asking price is thus 125% of 15, or 18 gs & 8 ss (haggling could reduce this to either 16 gs & 5ss or 15 gs).
+Category Good Available Armor Any up to 100 gs* Weapons Any up to 100 gs* Ammunition Standard arrows, quarrels,
+and sling stones Animals Saddle Clothing Normal clothing and furs Common Goods Any up to 30 gs* Unusual Goods None Food Rations * Costs are before Rudwulf ’s mark up but after any
+availability increase. For instance, a long spear is available as the base cost is 100 gs. Rudwulf offers it for sale for 125 gs, however. Conversely, a pot helm (Avail-ability T) always costs 112 gs in a village and thus is not available.
+RODGAR’S HOUSE
+Rodgar isn’t back from his travels yet. His servant, Ael-
+wic, is home, though, and it is he who greets the heroes. He informs them of his master’s absence.
+If any money is handed over, Aelwic takes it and writes a receipt as proof. He has no idea how much his master is owed, since he hasn’t heard from him in a while, so the characters are free to rob their patron. Of course, Rodgar will eventually check with the baker, so any shortfall in his profi ts will be noted and acted upon.
+Heroes who explain the situation in Dunross and the loss of the fl our are told they had best inform the mayor quickly. Unfortunately, even with a letter from his master to show they were in his employ, Aelwic is not authorized to pay for any services. Should the fl our have been lost, the best the characters can do is take up the matter with Rodgar when he returns.
+Dalsetter is a law-abiding place. Attacking Aelwic or at-tempting to ransack the house to secure payment results in his crying loudly for help. A squad of guards arrives within 1d4 minutes and arrests the heroes.
+The lawbreakers are disarmed (or attacked if they refuse to comply with the guards’ orders) and thrown into jail. Here they remain until Rodgar returns (in 1d6 days). Rodgar won’t press charges unless Aelwic has been murdered, but he also refuses to pay the characters for their services.
+Aelwic: Treat as a Citizen (page 22). Watch (2 per hero): See page 23.
+PENDA RANULFSUNU’S HOUSE
+Penda answers the door when the heroes come call-
+ing. He invites them in and offers a drink of hot broth, a common courtesy from the householder in these parts, as well the adventurers know. Because the line of ques-tioning the heroes take could take many forms, Penda’s information is given on the form of likely questions and the farmer’s answers.
+Q: Is your merchant mark an apple tree and wheat sheaf?
+A: “Yes. My great-great-grandfather used the apple tree, but when the winter killed off his orchards he began planting grain and added the sheaf to our mark.”
+Q: Did you remove your fl our from Dunross re-cently?
+A: “Why yes! I had my fl our removed about a week ago. Why do you ask? Are you looking to buy?”
+Q: Why did you remove your fl our?
+A: “I saw no reason to pay warehouse costs in Dunross when I have spare sheds here. Moving the fl our was purely a business decision.”
+A: Were you behind the rat attack?
+Q: “What are you talking about? What rats?” (A successful Notice roll reveals Penda is truly sur-prised by talk of rats.)
+Penda Ranulfsunu: Treat as a Citizen (page 22) but with Persuasion d6.
+PENDA’S CONFESSION
+After the heroes have explained the situation in Dun-ross, Penda replies as follows.
+“In Eostre’s name! Please tell me this is some sick joke? The entire village wiped out by hordes of rats? It’s not possible! And you think I had some-thing to do with that? How could I? How could I control so many rats? I’m not a wizard, I’m a farmer!” Penda pauses for a moment, his mouth open wide.
+“No, no, it can’t be! May Eostre be merciful! He never mentioned this would happen! He told me it would be an accident! This must be a coinci-dence. It must be a mistake!”
+Pressing Penda for more information requires a suc-cessful Intimidation or Persuasion roll.
+“A man approached me some ten days ago. He told me he could increase my profi ts or make me
+LAIR OF THE VERMIN LORD
+famous. He said all I had to do was move my fl our from Dunross as soon as possible. He said he could arrange an accident, have all the other fl our ruined. My stock would then be worth a fortune.
+“I know, I know, greed got the better of me, but I have enough fl our to feed the villages, and those in settlements beyond. But I swear on the names of all the benevolent gods, I never knew what his plan was!” Penda then breaks down into uncon-trollable fi ts of sobbing.
+Penda, once he regains his composure, informs the heroes that he never saw the man before, nor has he seen him since. The stranger never gave a name, nor did he leave details of where he could be reached. Penda de-scribes the man as tall, slim, with a trimmed black beard, and buckteeth.
+If asked, Penda reveals his fl our is kept in the sheds near his house. He leads the heroes there if asked.
+Should the heroes not visit the sheds, they must de-cide what to do with Penda. It is not their place to deter-mine guilt or innocence, so he should be handed over to the local authorities. Slaying Penda not only earns the entire party a –20 Glory penalty, but it also makes them murderers. They gain the Minor Wanted Hindrance in Dalsetter and the surrounding villages (about a 20 mile radius of the village). While Penda will confess his crime to the mayor, he never comes to trial—an assassin makes sure of that.
+THE FLOUR SHEDS
+As part of his plan, the paladin intends to poison the
+fl our. That aspect of the plan is taking place now; a pair of orcs and a few giant rats having entered the fl our sheds only moments before the heroes arrived in the village.
+Don’t worry if the heroes never visit the sheds—Hell-frost isn’t a setting where the good guys always win. Un-less discovered during the day, the orcs poison the fl our and depart once night falls, leaving no trace they were ever present. Hundreds will die of poisoning, and many hundreds more of starvation, thanks to the chronic fl our shortage.
+The door to the fl our sheds is locked. Penda, if pres-ent, uses his key but is surprised when the door refuses to open. Characters without Penda who pick the lock similarly fi nd it won’t budge. Having picked the lock, the orcs inside the fl our sheds have placed sacks against the door. Battering the door open requires a Strength roll at –2 (up to two heroes can cooperate on this task). Success gains the characters Surprise, whereas a failed roll alerts the intruders and gives them time to prepare.
+Terrain: There are three fl our sheds, each measuring 5” to a side. They are attached together to form a single 15” long shed, with a sturdy door between each shed. These are currently open. The central line of squares
+along the sheds is clear terrain. The adjacent squares are partially covered in fl our sacks and are treated as dif-fi cult ground. Squares against the sides of the sheds are stacked high with sacks and cannot be moved through. Note the sacks are laid carefully in overlapping fashion, making tipping them extremely diffi cult (Strength roll at –2 as an action).
+The air in the shed is thick with fl oury dust, which is extremely fl ammable. Any fi re-based (but not heat-based) offensive magic, such as blast, bolt, or burst, infl icts an additional d6 damage. Such spells also cause the dust to explode. Everyone in the sheds suffers 3d6 damage. This is in addition to damage caused by the spell. The roof and sides of the sheds shatter outward. Fortunately, the majority of fl our survives the blast intact.
+Monsters: The giant rats are in the fi rst fl our shed (the one the heroes enter), while the two orcs are in the rear. The orcs do not have weapons drawn if they are caught by surprise—rather, each holds a vial of poison. Several sacks have been poisoned already, though they are too few to cause any famine. Each set of villains re-ceives their own action card.
+Overcome with guilt at his actions and eager for re-venge, Penda joins in the fi ght. Rather than give an Ally Sheet to a player (who might try to keep the merchant alive by having him avoid the engagement), the GM should control Penda’s action. It makes no difference to the adventure if Penda lives or dies.
+Orc Warriors (2): See page 22. Giant Rats (1 per hero): See page 23. Penda Ranulfsunu: Treat as a Citizen (page 22)
+but with Persuasion d6. Treasure: The orcs are carrying 7 gs between them.
+TRACKING THE VILLAIN
+There are three ways to locate the villain’s lair. First, an orc who survived the heroes’ onslaught may
+be interrogated. Questioners must be able to speak Or-cish. A successful Intimidation roll at –2 causes the orc to reveal his master, whose name he doesn’t know, is living in a ruined structure a day’s march north. Any character making a Knowledge (Area: Freelands) roll at –2 knows of the structure—a ruined tower ravaged during the Bliz-zard War.
+The orc also reveals his master’s description—it matches what Penda gave the heroes (or Penda can con-fi rm it if he hasn’t yet been asked about his contact).
+Alternately, Penda (if alive) can remember that the man who contacted him always rode away to the north. A Knowledge (Area: Freelands) roll as above allows a character to recall the crumbling ruin. Penda, a native of this region, makes a Common Knowledge to remember the ruin.
+Characters who think to check the map Rodgar gave them automatically notice the tower drawn above Dalset-ter. Even if the heroes don’t have any information indi-cating it as a potential lair, it warrants further inspection as a possibility.
+HELLFROST ADVENTURE: #01
+PART 3: LAIR OF THE VERMIN LORD
+Armed with the location of Vali’s temple, the heroes can now deal with the cause of the problem besetting the region.
+Not every rat died in Dunross. Through his furry agents, the paladin of Vali has learned that someone sur-vived the attack. Rats aren’t great at describing bipedal sentient creatures (they all look the same to them), so the paladin doesn’t know exactly who they are. Similarly, unless one of his minions from Dalsetter escapes, he has no idea the characters are on his tail.
+GM NOTES
+COMMON FEATURES Unless otherwise indicated in the text below, all
+doors are wooden and unlocked. A locked door can be picked with Lockpicking or battered down (Toughness 8). Doors sealed by a horizontal bar have Toughness 10 and cannot be picked—they must be forced open with brute strength.
+The chambers within the walls of the upper temple and the tower are 12’ high. The ceiling in the upper stair-well chamber is 18’ high. Cavern ceilings are 24’ high, the corridors rise to only 7’, and the main temple ceiling stands 36’ above the fl oor.
+All rooms and corridors are unlit unless they contain orcs or Gautrek. In these areas hang enough torches to provide good lighting conditions. Assume each room holds one torch per 4” of wall. If between one-third and one-half the total number of torches are extinguished the lighting in the room drops to Dim (–1). Removing between a half and all but one makes the lighting condi-tions Dark (–2). Extinguishing all the torches leaves the room Pitch Black (–4).
+Areas containing furnishings or obstacles that fi ll all or part of a square, and which reasonably allow move-ment through, over, under, or past the obstacle, are considered diffi cult ground. For instance, a table fi lling a square is diffi cult ground as a hero can leap over it or duck underneath. However, a column or stalagmite fi lling an entire square allows no movement through its square.
+Each orc is carrying 1d6 gs worth of coin and easily sellable goods.
+ALARM!
+For the most part the inhabitants exist in “time bub-bles.” That is, no matter what time of day the characters enter the temple the occupants are in the locations stated
+in the text. However, the defenders are neither deaf nor stupid. Should an alarm be raised or sounds of battle be heard, they react to the disturbance.
+Rat swarms and giant rats become agitated. Those whose progress is not impeded (such as by a locked door) immediately rush off to investigate. The sentient defenders, such as the paladin of Vali and his orc body-guard, move more cautiously, alerting comrades as they go.
+Intelligent defenders know the layout of the temple and make best use of terrain to arrange an ambush for the uninvited guests. The priest uses his spells to aug-ment any ambush, such as by casting barrier behind opponents to prevent them from fl eeing his minions or to force them down a specifi c route.
+During any counterattack the GM should play fair—he knows where the characters are, but the defenders do not. Unless specifi c instructions are received from a crea-ture under attack, the defenders can, at best, navigate to the site of the battle by sound alone.
+Likewise, the specifi c makeup of the party won’t be known by the defenders until they encounter the heroes and see them in action. Thus, unless a spellcaster is viewed casting a spell, the defenders won’t know he’s a cleric or mage and won’t be able to devise tactics to lessen the effects of his spells, such as splitting up to give area effect spells fewer targets.
+REARMING
+In the event the heroes are forced to retreat and launch a second (or third, or fourth) assault on the temple after a period of delay (say for healing), the defenders recover some of their losses. For each day that passes the paladin summons one rat swarm to aid him through a powerful relic (see Idol of the Rat King on page 21). On every fourth day (half a week) the temple gains one giant rat thanks to Vali’s intervention. Once per week, an orc in the service of Vali arrives at the temple.
+Gautrek, the paladin of Vali, has no access to healing magic. As such, he must recover his wounds through natural healing. The more wounds he has when the he-roes return should alter his tactics. To begin with he is overconfi dent, preferring not to expend his minions un-necessarily. However, on subsequent visits the characters should fi nd him more cautious with regard to his own life and more eager to launch a frontal assault on the invaders to prevent them from reaching him.
+In the event the heroes are battered and bruised but the defenders are not, Gautrek orders giant rats and swarms to search the surrounding wilderness for the heroes. The strength of these attacks is left for the GM to determine, but the attacks always occur at night. The rats don’t have the ability to see in the dark, but neither do the heroes, and a swarm has little need for sight.
+Should Gautrek be slain, the magic binding the rats to him is dispelled. The creatures then revert to their natural state—giant rats attack the nearest non-rat foe, while the swarms disperse into the wilds. Unless the Rat
+LAIR OF THE VERMIN LORD
+King (page 21) is also slain, an army of giant rats begins plaguing the lands in spring 500 IR.
+THE UPPER TEMPLE
+The temple of Vali is spread over two levels. The
+upper story is a ruined tower, which houses only a few guardians and serves as a lookout post. The true temple is located beneath the ground, in a warren of corridors and tunnels which once served as a temple to Ertha.
+APPROACH
+The outpost sits atop a low, fl at hill. Small boulders and leafl ess bushes litter the lower slopes, allowing the characters to approach to within 100 yards (50”) unseen. Beyond this, the debris thins to the point of being non-existent within 40 yards (20”) of the front gate.
+Nighttime conditions for launching a raid are only slightly better than during the day—clear skies and a bright moon reduce the lighting to just Dim (+1 to Stealth rolls, –1 to rolls involving sight).
+1) WATCHTOWER
+At last the old building you seek comes into clear view. A squat stone tower, its top fl oor long since destroyed, rises some 20 feet above the hilltop. To the east of the tower’s base extends the façade of a low structure, the cracked, stone wall, broken only by a pair of double gates. Rotten and shattered, they hang precariously in the entranceway.
+The squat, square watchtower stands 25 feet high, though it once stood much taller. The top fl oor col-lapsed inward during the Blizzard War, leaving behind only a jagged pile of rubble. Gautrek ordered the orcs to clear the stairwell so they could watch over the approach to the outpost.
+Monsters: Day or night, a lone orc sits amid the debris. Being so far from the trails which crisscross the landscape, the orcs are lax in their duties. Unless an orc or rat survived the battle in the fl our sheds, the sentry is inactive when the characters approach.
+Detecting him against the rubble requires a Notice roll at –2 at a distance of 100 yards, the fi rst time the heroes catch a clear sight of the top of the tower. One Stealth roll (at +1 due to Light Cover) is required for the heroes to pick their way through the boulders and bushes to the point where the cover ends. A second roll is required to reach the base of the tower.
+Should a Stealth roll be failed, the orc becomes ac-tive, perhaps hearing loose stones tumbling down the slopes or catching a glint of light on steel. A second failed Stealth roll causes him to scramble down from the tower (which takes three rounds) and alert his master (a fur-ther fi ve rounds).
+Orc Warrior: See page 22.
+Tactics: As noted above, the orc has no interest in engaging in combat, not even with his bow. His orders are to alert his master, Gautrek, of any interlopers head-ing toward the ruin.
+2) COURTYARD
+Beyond the gates is an open courtyard. In the center stands a low, stone building. An archway, decorated with faded and despoiled glyphs, ap-pears to be the only entranceway. East and west of the gates are stairs, leading up onto a walkway which follows three sides of the structure. Beneath the walkway, in the courtyard’s outer walls, are a number of archways, perhaps leading to rooms within the outpost’s thick walls.
+The glyphs around the archway are extremely hard to read. A Knowledge (Arcana) roll made at –2 reveals they are tied to the element of earth. A Knowledge (Religion) roll made at –2 (no penalty for priests or paladins of Ertha) indicates they are archaic symbols of the goddess Ertha, little used since the Blizzard War.
+Monsters: The courtyard is home to a swarm of rats and a number of giant rats. If the orc sentry has been alerted he whistles as he runs across the courtyard to the stairwell. This alerts the rats lurking within the walls that intruders are approaching.
+If the sentry hasn’t been alerted, any noise above a whisper allows each rat a Notice roll. With success, or should any hero approach within one square of one of the rat nests (see below), the rats pour out and attack. This in turn automatically alerts the orc to trouble below. It takes him three rounds to grab his gear and clamber down the stairs.
+In either case, the swarm should emerge from the rat nest nearest the characters. Divide the giant rats as equally as possible between the other nests. In the event the giant rats number more than double the number of rat nests, the extra rats appear from nests nearest the party.
+Giant Rats (2 per hero): See page 23. Rat Swarm (1): See page 23.
+Tactics: The rats aren’t intelligent, but they are cun-ning. They wait as long a possible before attacking, hop-ing to catch intruders by surprise, or at least at a tactical disadvantage.
+Being unintelligent, they have no concept of how to judge the character’s individual strengths and weakness-es. As such, they attack the nearest character, using Gang Up if necessary. Should two or more characters present a valid target the rats go for the least armored.
+3) RAT NESTS
+Filthy straw and piles of rat droppings and gnawed bones litter the fl oor.
+HELLFROST ADVENTURE: #01
+These narrow chambers, formerly storerooms, are used as nests by the rats. There is nothing of value in any of the chambers.
+4) STAIRWELL
+Behind and to each side of a circular stairwell descending into the bowels of the earth stand two statues. The left-hand one depicts a muscular woman clutching a large war hammer, though the head lies at the statue’s feet. The other perhaps once displayed the same form, but it has been badly damaged, and is now lost above the waist.
+Frost dwarves and any worshipper of Ertha instantly recognize the most intact statue as depicting the earth deity. Other characters recognize the god on a Common Knowledge roll. Elves, who tend not to worship Ertha, suffer a –2 penalty to this roll.
+Treasure: Should the statue’s head be replaced on its shoulders, the two parts immediately bond, leaving no trace of damage. A priest or paladin of Ertha who doesn’t replace the statue’s head is guilty of a minor sin.
+Ertha rewards a non-worshipper who performs this act (her worshippers are expected to do it). As the head touches the shoulders, the hero’s skin hardens, though not to an extent it affects movement. This grants a +2 Armor bonus, does not stack with armor, cannot be dis-pelled, does not count toward Maintained spells if the recipient is a spellcaster, and lasts until the hero next sleeps.
+THE LOWER TEMPLE
+The lower temple was once sacred to Ertha. As is
+typical of her holy sites, the tunnels and chambers were largely left untouched. Even when new tunnels were excavated, they were sculpted to mold seamlessly with the natural rock. The only artifi cially smoothed chamber is the main temple.
+1) ENTRANCE CHAMBER
+The spiral stairs end in a small, natural cavern. The walls are slick with moisture. Faint echoes of rodents’ squeaks can be heard from beyond the opening.
+LAIR OF THE VERMIN LORD
+Unless the orc sentry raised the alarm, the chamber is deserted. If the alarm was raised, the giant rats from areas 4 and 5 are concealed in the corridor.
+Tactics: If there are defenders present, they rush to attack as soon as the fi rst character enters the room, us-ing Gang Up to bring down the intruder.
+2A) SLIPPERY SLOPE
+The tunnel descends steeply. The slick rocks count as diffi cult terrain. In addition, any hero who runs and rolls a 1 on his running die slips and falls. He immediately slides 2d6” down the slope. If his slide is arrested by a solid object, such as a stalagmite, he suffers 1d6 damage per whole 5” of his movement.
+2B) EARTH LOCUS
+The constant clatter of rocks smashing together can be heard from the dark depths of this cavern.
+The temple site was not chosen because it had a natu-ral cave network the worshippers could exploit, but be-cause of an unusual earth elemental locus (see below).
+The Locus: The outer reach is surrounded by a continually swirling wall of small pebbles and dust, the inner reach by larger stones, and the core by even bigger chunks of rock. There is no danger entering the locus unless a character is an elementalist with the air trapping (even if he also has an earth trapping).
+Should an elementalist with this trapping try, he must make an Elementalism roll when he crosses into the out-er reach or suffer 1d6 damage. Entering the inner reach requires a roll at –1 to avoid 2d6 damage, and crossing the boundary of the core an Elementalism roll at –2 to avoid taking 3d6 damage.
+The bonus for casting spells in the locus applies not only to earth elementalists, but also to clerics of Ertha. It was this effect which drew clerics to the site in ages past. Gautrek knows the locus exists, but it is of little use to him. When he gets a chance he intends to research how to destroy the locus in the hopes it will weaken Ertha.
+Terrain: Treat moving up the slope to reach the raised area as diffi cult ground. The earth elementals (see below) are not hampered by the terrain, due to their earthy nature.
+Monsters: As soon as any hero steps onto the raised area, two earth elementals rise from the fl oor in the po-sitions marked on the map. When both are slain, their parts merge together, rising at the start of the next round as a large earth elemental. The large earth elemental begins at a point equidistant from the position the two smaller elementals occupied when they were slain. Once slain, the large earth elemental does not rise again.
+None of the elementals chase characters beyond the confi nes of this chamber. They were bound here using a powerful ritual before the Blizzard War. When the temple was abandoned, their fi nal orders were to guard
+the chamber from all intruders. They take their orders very literally.
+If the summon elemental tablet from Area 4 is thrown into the locus’ core, the spell activates. The elemental appears inside the core, forming from chunks of whirling stone, which are pulled together by some unseen force. The creature is under the command of the one who used the tablet, exactly as if he had activated the magic through conventional means. It does not merge with the other elementals, and will fi ght them if ordered.
+Earth Elemental (2): See page 22. Large Earth Elemental (1): See page 22.
+Tactics: The earth elementals make use of their bur-rowing ability to avoid being attacked as much as pos-sible. Initially, they burrow into the rock, move toward a foe, and then burst forth, fi sts fl ailing. Emerging from the rock doesn’t allow a character with First Strike to get in a free attack unless he makes a Notice roll opposed by the creature’s Stealth fi rst.
+If the characters are completely uninjured, have ac-cess to healing and offensive spells, or are Seasoned Rank or higher, the elementals use a special tactic. If Shaken, the elementals retreat 1” using the Defend maneuver and withdraw back into the cavern fl oor (burrowing is part of their movement, not a specifi c action). They remain in the rock until they have recovered from being Shaken. Once recovered, they must resurface in order to acquire targets. This applies even if none of the heroes has moved, as the elementals are essentially blind once inside the rock.
+3) WATER CAVERN
+A large pool of water dominates the center of the cavern, fed by a spring emerging from the rock face. A narrow, slick walkway surrounds the pool.
+This 30’ deep natural pool serves as the rat’s water supply, bath, and toilet. Although the water appears relatively clear, only the deeper water is affected by the current of the underground river which fl ows from this cavern. The surface water harbors leptospirosis (also known in modern times as Weils disease). Anyone drink-ing the water without casting elemental manipulation (water) to purify it must make a Vigor roll. Failure results in infection.
+After eight days (one week), during which time the character suffers fl ulike symptoms, the victim gains a level of Fatigue. Each four days thereafter he suffers an automatic level of Fatigue as he suffers liver damage, men-ingitis, and renal failure. This can lead to Death. Healing is only useful in the fi rst ten minutes of infection. Succor and restorative herbal remedies can remove the Fatigue, but do not cure the disease—the hero remains infected and contagious.
+While infected, the victim’s own blood, urine, and other fl uids can pass on the disease. Healers not wearing
+HELLFROST ADVENTURE: #01
+gloves who treat an infected patient’s wound must make a Vigor roll at +1 or contract the disease, as much oth-ers who come into contact with the infected character’s bodily fl uids.
+Curing the disease beyond the 10 minutes allowed by healing requires either greater healing or lengthy use of herbal remedies. The herbal cure requires the patient to take a dose of antibacterial remedy every day for eight days. After this time he is allowed an unmodifi ed Vigor roll. If successful, the disease is cured.
+Monsters: Draw a card from the action deck the fi rst time the characters enter this chamber. A black card indi-cates a number of giant rats are present.
+Giant Rats (1d4): See page 23.
+4) RAT NEST
+The stench of rat urine is almost overpowering as you enter this chamber. Fragments of wood, long decayed, litter the fl oor, as do piles of broken stone tablets.
+The chamber once served as the temple’s library. Due to the moisture-laden air, the priests took to inscribing thin, stone tablets rather than using parchment. A charac-ter who reads Classical Anari or Earthtongue can discern scraps of text relating to temple records and fi nances, prayers, and such like.
+Monsters: Four giant rats nestle here among scraps of rotten cloth and straw.
+Giant Rats (1 per hero): See page 23. Tactics: The rats concentrate on the nearest hero,
+using Gang Up tactics to bring him down as quickly as possible.
+Treasure: Concealed beneath the straw are two small,
+clay tablets. They survived the destruction of the temple. Both are alchemical devices and function as scrolls.
+The fi rst holds the summon earth elemental spell (see page 22 for the elemental’s stats) and the second a sanctuary spell (which if cast during this adventure takes the reader to Ertha’s temple in the mining town of Crase, about 120 miles east of the party’s current loca-tion). Activating the tablets requires the reader to speak Earthtongue, the preferred language of Ertha’s cult. Speak language can decipher the enchanted tablets.
+5) RAT KING’S LAIR
+This cold, dank chamber reeks of vermin. From somewhere in the inky darkness can be heard the chittering of many rats.
+This chamber is home to an abomination known as the Rat King and its bodyguards.
+Monsters: Nestled in one corner is the Rat King, a monstrously bloated albino rat swathed in swarming rats. In fact, the rats crawling over and around him are permanently attached to him, their tails growing from his corpulent fl esh. An unholy creature, created through Vali’s corrupting infl uence, the Rat King is the source of Gautrek’s giant rats, its own blood corrupting normal rats and mutating them. It is served by four giant rats of larger-than-average size and four standard giant rats.
+The Rat King, four huge rats, and four giant rats are treated as separate groups for the purposes of action cards.
+Rat King: See page 23. Huge Rats (1 per hero): As giant rat (see page 23)
+except they are Size +0 (Toughness 5). Giant Rats (1 per hero): See page 23.
+Tactics: The giant rats immediately move in to attack intruders. The Rat King, who moves slowly, runs toward the heroes, accompanied by his huge rat guardians. Only when the Rat King’s conjoined swarm is able to attack the characters do the huge rats enter combat. The King only enters melee in person when his swarm is dead. Until then, he maneuvers as necessary to keep as many characters as possible inside his swarm.
+Treasure: Gautrek honors the Rat King as a living embodiment of Vali. In its corner of the cavern are hun-dreds of assorted bones, mostly animals but some from the civilized races. Scattered among the bones are coins and small gems, booty taken from Gautrek’s victims. In total there are 500 gs in treasure. One item stands out—a gold ring on which are written words in Anari. This is an alchemical device and contains a single use of speak language. Once the spell is cast the words fade.
+Anyone handling the loot without gloves risks con-tracting leptospirosis (see page 17). Even if the charac-ters don’t contract the disease, spending the loot without cleansing it fi rst (washing it in hot water works) risks the heroes unwittingly aiding Vali by spreading the disease among the citizens of Rassilon.
+BARRIER
+We’re only human, and it seems the changes to the barrier spell were accidentally left out of the Hellfrost Players’ Guide. The required changes are noted below. Other rules for the spell are as per the Savage Worlds rulebook. Duration: Maintained A basic casting creates a 1” section of barrier. Ad-ditional sections can be created during a single casting, though it is harder to do so. For every two additional 1” sections or part thereof, the caster suf-fers a cumulative –1 penalty to his arcane skill roll. Each separate casting counts as a single spell for the purposes of Maintaining the power, regardless of the number of sections created. For instance, Dave’s hero wants to completely sur-round a foe with a barrier. This requires fi ve sec-tions in total (four walls and a roof), and thus incurs a –2 penalty. He Maintains this as a single spell.
+LAIR OF THE VERMIN LORD
+6) ORC BARRACKS
+A makeshift door formed of mangy hides blocks the entrance to this cavern. The stench of wood smoke and burnt meat barely conceals the dis-tinctive smell of unwashed bodies and excrement. Low murmurings can be heard from within.
+The murmurings are in Orcish, but no words can be discerned due to their low volume.
+Monsters: Gautrek retains a bodyguard unit of nine orcs. One is always in the watchtower, two are at his side, and three harvest fungus from Area 7. The other trio is left to their own devices until their shift starts. Given the large numbers of rats in the complex, they prefer to remain in their quarters.
+The orcs are members of the Eye Piercers, a tribe re-nowned for its ranged weapon prowess. While typically more loyal to Thrym or Dargar, orcs are prone to follow whoever provides them with suffi cient booty and food. Right now, Gautrek satisfi es their needs. The prospect of watching hundreds of humans fall sick is also too good an opportunity to pass up, especially since starving vil-lagers are easy to slaughter.
+Unless an alarm has been raised the orcs are cleaning weapons, dozing, eating, arguing, and such like. They are treated as inactive sentries. Characters who keep quiet while entering their barracks can easily catch them by Surprise.
+Orc Warriors (3): See page 22. Tactics: The orcs initially try to use their bows against
+intruders. When this proves impossible, they switch to melee weapons. Given chance, they will make as much noise as possible by screaming and shouting, hoping to attract the attention of nearby allies.
+Treasure: The orcs sleep on rotting furs and stolen, heavily-soiled blankets. Being paranoid of their comrades robbing them, they don’t keep any valuables here—what little wealth they possess they carry on their person at all times.
+7) FUNGUS FARM
+The fl oor of this dark, dank chamber is blanketed in fungi of red, yellow, green, and milky, white hues. Most stand only a few inches high, but some rise to the height of an adult human. A dull glow emanates from the rear of the cavern, though its source cannot be discerned.
+The priests of Ertha survived primarily on a diet of fungus, cultivating large crops in this moist, dark cavern. Since their departure, other fungi, once weeded out by the priests’ attendants, have proliferated. The light source is generated by a lantern.
+Terrain: Areas containing towering mushrooms count as diffi cult ground. They provide cover to heroes
+standing behind them (Armor +2). Those containing ground-growing fungus are standard terrain. Damaging area effect spells like blast can clear away fungal growths in the affected area. Treat the fungus in any square as having a collective Toughness of 8. They otherwise act like a swarm for the purposes of damaging them.
+Monsters: Three orcs are in here searching for edible fungus and also for fungi suitable for brewing poisons. They have learned through trial and error, and the deaths of a few comrades, which fungi are deadly, and avoid those areas.
+Orc Warriors (3): See page 22. Toxic Fungi: Areas marked red and blue on the map
+contain fungi which release dangerous spores. They do this if a character enters the space they occupy. These fungi grow among other types, and thus are not easily identifi able without a careful search. As such, they should not be indicated to the characters. Searching a single square for these growths takes an action and requires a Notice roll.
+Blue: When a character enters a space fi lled with this fungus a choking cloud of spores erupt to fi ll a Medium Burst Template centered on the unfortunate hero. All within the template must make a Vigor roll or be Shaken. The spores hang in the air for three rounds. During this time, anyone entering or who begins their turn in the template must make a Vigor roll as above. This counts as a physical attack, and thus cumulative Shaken results cause a wound. Characters killed by this fungus and left here sprout fungal growths within a few days.
+Red: Entering a square occupied by this fungus causes a Medium Burst Template of spores to shoot out. The spores are protective—inhaling them produces vivid hal-lucinations. Victims must make a Spirit roll at –1. Failure forces them to roll on the Fear Effects Table. The spores remain airborne until the end of the current round. Dur-ing this time, anyone entering the template must roll to avoid their effect.
+Treasure: A character who examines the fungi and makes a successful Knowledge (Alchemy) or Survival roll can identify one species of mushrooms suitable for brewing hydrating alchemical brews. A maximum of four doses can be picked, given suitable time. A raise identifi es enough fungi of a rare variety ideal for creating a single batch of healing (regenerative) paste. The hydrating fun-gus provides no modifi er when creating a brew, but the rare regenerative mushrooms grant a +3 bonus due to their rarity. They can be harvested and dried. Gathered in this way they act as standard dried herbs.
+As well as identifying these medicinal plants, the searcher identifi es several edible species which can be used to supplement the characters’ diet (either eaten or infused with boiling water).
+8) GATES OF ERTHA
+Huge, stone doors bar the artifi cially worked cor-ridor. Each is as wide as a man and twice as tall.
+HELLFROST ADVENTURE: #01
+Ancient markings, defaced by hands unknown, are barely legible beneath a thin layer of lichen and scum.
+The images and writing are recognizable by any frost dwarf or worshipper of Ertha as representing her cult. Other characters need to make a Knowledge (Religion) roll to deduce these facts. They are a mixture of wel-come messages for those allied to the cult (written in Earthtongue) and threats of destruction for those who would seek to deface the temple beyond (scribed in Anari).
+The doors were crafted with a degree of skill not seen since the Blizzard War. A gentle push causes them to swing silently open, revealing the corridor beyond. The doors at the opposite end of the corridor open just as easily.
+9) CORRIDOR OF TRAPS
+A long, worked corridor stretches ahead of you. The walls are formed of stones, laid together in an interlocking pattern. The fl oor comprises stone tiles engraved with the symbol of a hammer. In the center of the hammer’s head are small inden-tations. Lying on one of the squares is a small, stone amulet shaped like the hammer symbol. Just inside the door are small niches in the walls.
+The hammer is Ertha’s holy symbol. Deducing this requires a Common Knowledge roll from non-worship-pers. The fact is automatically known by frost dwarves and followers of the cult. The indentations once held precious stones, but these have long since been robbed. Their presence may cause a little paranoia among the characters.
+The niches are about the size of a clenched fi st and are located at mid-torso height on an average-sized hu-man. They once held holy symbols, but are now empty.
+Traps: In order to protect the temple, engineers in-stalled cunningly-worked traps along the corridor. The traps are semi-magical, in that visitors openly displaying Ertha’s holy symbol cannot set off the traps, though they can still suffer their effects if standing in the wrong place when one is activated.
+Gautrek lost several orcs to the traps when he initially settled here before deducing how the mechanisms work. He carries a holy symbol of Ertha whenever he enters this corridor. Being of devious mind, he placed a holy symbol just behind a trap, hoping to lure any invaders to their deaths.
+The traps make a great deal of noise. This alerts Gau-trek and his minions to the heroes’ presence outside the temple.
+Detecting: Detecting a trap requires a Notice roll. Un-less a character has Danger Sense, searching for traps requires an action. A single roll is made in a round, regardless of how far the hero moves. With success, he detects a trap adjacent to him. He may halt his move-
+ment (even a run), if he spots a trap (advisable if it’s right in front of him).
+Disarming: Disarming a detected trap requires a Lockpicking roll and takes a complete round (no other actions possible, including movement). On a critical fail-ure, the trap activates. Check for Surprise.
+Initiative: The traps activate with little warning to the unfortunate victim. Use the rules for Surprise. The traps have Agility d8 for the purposes of interrupting. A trap catching a character by Surprise also has the Drop (where applicable).
+Attack: Standing on a trap causes the nearest section of wall to surge outward, powered by immense rams concealed in the walls. The ram extends as far as the activated trap’s symbol on the map. All creatures in the ram’s path are attacked with Fighting d10. This functions like Improved Sweep, except it works in a straight line rather than an arc. Damage on a successful hit is 2d8, and victims are knocked back 1” and fall prone.
+For example, the fi rst trap is located two squares from the north wall. When activated, the ram shoots out into those two squares.
+10) TEMPLE OF VALI
+As the door opens, you see before you a vast cham-ber of worked stone, supported by eight massive columns of deepest black stone. Each column depicts the goddess Ertha, her hands held aloft to support the ceiling some thirty or more feet above. Cracks, chips, and cuts show where someone has attempted to deface the images.
+Ahead, in front of a huge altar, stands a rat-faced man clad completely in black. Two giant rats squat at his side like guard dogs. Atop the altar is a blood-red statue depicting a jumble of rats joined at the tail. Vile symbols, daubed in what can only be blood, adorn the walls and fl oor.
+The temple to Ertha was once the centre of a small but thriving religious community. Originally despoiled centuries ago during the Blizzard War, Gautrek has further defaced it with vile symbols of Vali. Recognizing these rarely-seen devices requires a Knowledge (Reli-gion) roll.
+Magic: The temple contains a powerful warding which Gautrek has never discovered. If anyone casts a spell with an air, ice, or water trapping, an ancient ward-ing activates. The entire temple suddenly shakes, as if struck by a massive earthquake. All characters except those whose patron deity is Ertha and elementalists who know earth magic must make an Agility roll at –2 or fall prone.
+The earth elemental, if it has been summoned from the tablet in Area 4, is not only unaffected by the quaking ground, it gains a benny. This bonus, representing a di-vine boost to its power, is lost when it leaves the room.
+The idol on the altar is a powerful relic of Vali (see the sidebar for more details). Gautrek has not used the idol today. He tries to summon its magic once the heroes arrive. See Gautrek’s Tactics below for how the evil paladin reacts during combat.
+Spellcasters invoking magic with an earth trapping gain +1 to their arcane skill rolls while inside the tem-ple.
+Monsters: Gautrek, two orc warriors, and a number of giant rats are present in the chamber when the charac-ters enter. Unless the heroes activate the traps in Area 9, Gautrek and his cronies must check for Surprise. Roll for the paladin and the orcs individually, and use the Group Roll rules for the rats.
+Gautrek, Paladin of Vali: See page 21. Orc Warriors (2): See page 22. Giant Rats (2 per hero): See page 23.
+Tactics: The orcs and rats immediately rush to attack, blocking the way into the chamber as quickly as possible so as to contain the characters. In doing this, Gautrek’s area effect spells can encompass a greater number of the characters.
+Gautrek’s standard tactics are as below. If the charac-ters activated the traps, Gautrek has already cast armor with a standard success (+2 Armor) when they reach the temple. From round six onward, the paladin casts disease at each foe out of spite. If the tide turns against him, he casts barrier to completely surround himself (requiring fi ve sections at a total –2 penalty if he’s in the open), letting the gnawing rats weaken his foes for a while.
+Round 1: Cast armor on himself. Round 2: Activates the Idol of the Rat King. Round 3: Casts entangle at any obvious spellcasters
+or the largest group of heroes if no spellcasters have been detected.
+Round 4: Casts barrier (three segments) to form a straight line between self and largest group of foes.
+Round 5: Casts fear at largest group of heroes.
+AFTERMATH
+The death of Gautrek and the Rat King ends their reign of corruption and death, though Vali has many such plots in operation across Rassilon. Some GMs might wish to have the cult of Vali target the characters in the future, as revenge for ruining a plot.
+Calculate Glory as normal as per the Hellfrost Play-ers’ Guide. If the plot to poison the grain in the fl our sheds was thwarted, grant each survivor a fi xed +1 Glory regardless of the random roll—they’ve potentially saved a lot of people from starvation or poisoning, and there will be witnesses to their deed. If the grain was poisoned, they suffer a –3 Glory penalty—they were indirectly re-sponsible for the humanitarian disaster which follows in the next few months.
+Informing the cult of Ertha about the location of
+the former temple isn’t worth any Glory rewards, but it makes the cult friendly to the party, at least in the short-term. Allow the party (not each character) a single use of the Connections Edge with regard to the cult. Once the favor is called in, the slate is wiped clean. See the free download on our website (www.tripleacegames.com) entitled Favors for more details.
+BESTIARY
+GAUTREK, PRIEST OF VALI
+Gautrek isn’t actually human—he’s a leyparat, a form of hamhleypa (“ham-huh-lay-pa;” a Saxa term meaning “shape leaper”). Hamhleypas are intelligent animals which can assume a half-man, half-beast hybrid or fully human form.
+Unlike lycanthropes, shape-leapers are not forced to assume their other forms on the full moon, nor does silver affect them (silver has no relation to the moon in Rassilon anyway). Their condition is hereditary and can-
+LAIR OF THE VERMIN LORD
+THE IDOL OF THE RAT KING
+Carved from blood-red marble, the idol takes the form of a mass of rats, joined together at the tail into a jumbled mass. Only paladins or priests of Vali with the Disciple Edge can make use of the idol. To do so, they must touch it while recanting a prayer to Vali and make a Faith roll. Success activates the summon beast spell, summoning a rat swarm. The duration is per-manent—the creatures stay and remain obedient until slain. It functions just once per day, whether the Faith roll is successful or not. The power of the idol can be removed in one of two ways. First, it can be smashed. It has Toughness 12 and breaks when it takes a single wound. Second, it can be dispelled. This is harder, as it has an arcane skill die of d12 and a Wild Die to resist such attempts. A single dispel attempt may be made per week, regardless of the source. Once broken or dispelled, all vermin summoned by its dark power are returned to wherever they were summoned from. In this adventure that is any and all remaining rat swarms. Heroes who take the item to the Citadel (page 10) are rewarded with 500 gold scields to share as they desire. They aren’t allowed in the Citadel proper to conduct their business, however, nor will the Reli-quary haggle over the price. If the adventurers don’t like the offer and leave, they should fi nd themselves the victims of theft at some later stage.
+HELLFROST ADVENTURE: #01
+not be transmitted by their bite or claws. Leyparats are giant rats in their animal form.
+Gautrek spends much of his time in human form. His human guise takes the form of a tall, thin man with a neatly trimmed, goatee beard. He has slightly enlarged front teeth which touch his bottom lip, the only indica-tion he may be more than he seems. Attributes: Agility d10, Smarts d8, Spirit d8, Strength d8, Vigor d8 Skills: Climbing d8, Faith d10, Fighting d10, Guts d8, Notice d8, Persuasion d10, Stealth d10, Survival d8, Tracking d6 Charisma: +2; Pace: 8; Parry: 7; Toughness: 8 (2) Hindrances: Overconfi dent, Phobia (Major; cats) Edges: Arcane Background (Miracles), Charismatic, Dan-ger Sense, Disciple of Vali, Dodge, Fleet Footed, Level Headed Powers: armor (rats clinging to body), barrier (wall of rats; adjacent characters suffer 2d4 damage as from a swarm), beast friend (vermin only), charismatic aura, disease, entangle (target smothered in rats), fear. Gear: Chain shirt (+2), short sword (Str+d6), holy sym-bol of Vali Special Abilities: * Bite: Str+d4. * Direction Sense: Leyparats usually live in sewers or
+slums. Maneuvering around these mazes has given them a good sense of direction. Leyparats never get lost, even in nonnative locales.
+* Immunity: Leyparats are immune to poison and disease. Gautrek is also immune to attacks from rat swarms.
+* Infection: Anyone bitten by a leyparat must make a Vigor roll or the wound becomes swollen and in-fected. The victim suffers a level of Fatigue, which is recovered with a successful Healing roll or after 24 hours. Cumulative infections can cause a victim to be Incapacitated, but cannot lead to Death.
+* Low Light Vision: Leyparats ignore penalties for Dim and Dark lighting.
+* King Rat: Leyparats have a unique bond with com-mon rats and can summon them. This requires an ac-tion and a Smarts roll at –2. If successful, 1d6 swarms of rats come from the surrounding wilds in 1d4 (ur-ban environment) or 1d6+2 (rural) rounds.
+* Shapeleaper: Leyparats can change between any of their forms as a normal action by making a Vigor roll at +2. With a normal success, they can’t take any other actions that round, including movement. With a raise, they can take other actions as normal.
+CART HORSE
+The horses are named Thunder and Surefoot. Their
+names are on their blankets. Reliable but surly, the horses react poorly if their blankets are ever swapped or if they are not fed regularly, moving at half Pace until the matter is rectifi ed. If beaten, they stop moving for an hour in protest.
+Attributes: Agility d8, Smarts d4(A), Spirit d6, Strength d12+1, Vigor d8 Skills: Fighting d4, Guts d6, Notice d6 Pace: 8; Parry: 4; Toughness: 9 Special Abilities: * Kick: Str. * Size +3: Cart horses weigh between 1000 and 1200
+pounds.
+CITIZEN
+The peoples of Rassilon are a varied lot, but the pro-
+fi le below is common for most. Attributes: Agility d6, Smarts d6, Spirit d6, Strength d6, Vigor d6 Skills: Climbing d6, Fighting d4, Guts d4, Knowledge (one Craft) d6, Notice d6 Charisma: +0; Pace: 6; Parry: 4; Toughness: 5 Edges & Hindrances: — Gear: Knife (Str+d4).
+EARTH ELEMENTAL
+Earth elementals manifest as fi ve-foot tall, vaguely
+man-shaped collections of earth and stone. Though amazingly strong, they are also quite slow and ponder-ous. Attributes: Agility d6, Smarts d4, Spirit d6, Strength d12+3, Vigor d10 Skills: Fighting d8, Notice d4, Stealth d6 Pace: 4; Parry: 6; Toughness: 11 (4) Special Abilities: * Armor +4: Rocky hide. * Bash: Str+d6. * Burrowing (10”): Earth elementals can meld into
+and out of the ground. * Elemental: No additional damage from Called Shots;
+Fearless; immune to disease and poison.
+EARTH ELEMENTAL, LARGE
+Attributes: Agility d6, Smarts d4, Spirit d8, Strength d12+4, Vigor d10 Skills: Fighting d8, Notice d4, Stealth d4 Pace: 4; Parry: 6; Toughness: 14 (4) Special Abilities: * Armor +4: Rocky hide. * Bash: Str+d6. * Burrowing (10”): Earth elementals can meld in and
+out of the ground. * Elemental: No additional damage from Called Shots;
+Fearless; immune to disease and poison. * Large: Attackers are +2 to attack rolls, due to the
+creature’s size. * Size +3: Stands 12’ feet tall and weighs over 1,000
+pounds.
+ORC WARRIOR
+LAIR OF THE VERMIN LORD
+These orcs are members of the Eye Piercer tribe and have sworn fealty to Vali. All of them carry bows, with which they are quite profi cient. Orcs in Rassilon do not have Infravision. Attributes: Agility d6, Smarts d4, Spirit d6, Strength d8, Vigor d8 Skills: Fighting d6, Guts d8, Intimidation d8, Notice d6, Shooting d8, Stealth d6, Throwing d6 Pace: 6; Parry: 6; Toughness: 8 (1) Gear: Leather armor (+1), medium shield (+1 Parry), short sword (Str+d6), bow (Range: 12/24/48, Damage: 2d6) Special Abilities: * Size +1: Orcs are slightly larger than humans.
+RAT, GIANT
+Attributes: Agility d8, Smarts d8(A), Spirit d8, Strength d6, Vigor d6 Skills: Climbing d8, Fighting d6, Guts d6, Intimidation d8, Notice d6, Stealth d8 Pace: 8; Parry: 5; Toughness: 4 Special Abilities: * Bite: Str+d4. * Infection: Anyone Shaken or wounded by a rat must
+make a Vigor roll or suffer a level of Fatigue from an infected bite. Cumulative bites can lead to Incapaci-tation, but never to Death. One Fatigue level is re-covered every 24 hours or with a successful Healing roll.
+* Size –1: Giants rats are the same size as dogs.
+RAT KING
+The rat king is a unique creature, a monstrous albino
+rat smoothed in a crawling mass of rats whose tails sprout from the beast’s bloated body. Once per week, one of the rats is allowed to feed on the Rat King’s blood. It then pulls its tail free and mutates into a giant rat. Attributes: Agility d4, Smarts d6, Spirit d12, Strength d10, Vigor d12 Skills: Climbing d10, Fighting d8, Intimidation d10, No-tice d8, Stealth d4 Pace: 4; Parry: 6; Toughness: 10 Special Abilities: * Bite: Str+d6. While the accompanying swarm acts as
+normal, the Rat King may only attack one adjacent foe as per normal.
+* Conjoined Swarm: The swarm surrounding is treat-ed like a normal rat swarm (p. 23), except it moves at the Rat King’s Pace, uses his action card while alive, and fi lls a Medium Burst Template. Damaging the swarm does no harm to the Rat King and vice versa. If the swarm is destroyed, the Rat King continues to act as normal, except it loses its Protection special ability. Should the Rat King be killed fi rst, the swarm contin-ues to function but it cannot move.
+* Fear: Anyone who sees the Rat King must make a Guts roll. This requires the swarm to be dead or a hero to
+be in the swarm template in order to get a clear view. * Infection: Anyone Shaken or wounded by the Rat
+King must make a Vigor roll at –2 or suffer a level of Fatigue as pustules immediately begin to form around the wounds. Cumulative bites can lead to Death. One Fatigue level is recovered every 24 hours or with a successful Healing roll.
+* Infravision: Suffer no Darkness penalties against heat-producing targets.
+* Leadership Edges: Any rats within 5” of the Rat King are +1 to recover from being Shaken and +1 to dam-age rolls for Fighting attacks.
+* Protection: Attacks against the Rat King are made at –4 because of the heaving mass of rats covering its body. This provides 4 points of armor against area-ef-fect attacks.
+* Size +2: The Rat King is equivalent in size to a small horse.
+RAT SWARM
+Rat swarms fi ll a Medium Burst Template.
+Attributes: Agility d10, Smarts d4(A), Spirit d12, Strength d8, Vigor d10 Skills: Notice d6 Pace: 10; Parry: 4; Toughness: 7 Special Abilities: * Bite: Swarms infl ict hundreds of tiny bites every
+round to their victims, hitting automatically and caus-ing 2d4 damage to everyone in the template. Damage is applied to the least armored location.
+* Infection: Anyone Shaken or wounded by a rat swarm must make a Vigor roll or suffer a level of Fa-tigue from infected bites. Cumulative bites can lead to Incapacitation, but never to Death. One Fatigue level is recovered every 24 hours or with a successful Healing roll.
+* Split: Some swarms are clever enough to split into two smaller swarms (Small Burst Templates) should their foes split up. The Toughness of these smaller swarms is lowered by –2 (to 5 each).
+* Swarm: Parry +2. Because the swarm is composed of scores, hundreds, or thousands of creatures, cutting and piercing weapons do no real damage. Area-effect weapons work normally, and a character can stomp to infl ict his damage in Strength each round.
+WATCH
+Attributes: Agility d6, Smarts d6, Spirit d6, Strength d6, Vigor d6 Skills: Fighting d6, Guts d6, Intimidation d8, Notice d6, Shooting d8, Stealth d6 Charisma: +0; Pace: 6; Parry: 6; Toughness: 6 (1) Hindrances: Loyal Edges: — Gear: Leather suit (+1), open helm (+3), medium shield (+1 Parry), short spear (Str+d6), crossbow (Range: 15/30/60, Damage 2d6, AP 2).
+HELLFROST ADVENTURE: #01
+PLAYER HANDOUTS
+PH #1: RIDER’S LETTER
+www.tripleacegames.com
+With the snow already falling, the key to thwarting disaster is the village of Dunross, for here are stored the winter supplies of many surrounding villages. Fresh faced and
+eager, the heroes are hired by a local merchant to collect sacks of fl our from Dunross and deliver them to a bakery.
+But things are never that simple.
+What begins as a routine journey quickly embroils the adventures in a deadly plot to infl ict starvation and untold misery on the citizens of the northern Heartlands. Through the power of an unholy magical relic a dark swarm has been
+unleashed on Rassilion, a swarm which leaves only death and disease in its wake.
+Can the heroes survive the terrible host about to cross their path? If they do, have they the courage and skill to end the reign of terror of a sinister, inhuman foe? All will be
+revealed!
+Lair of the Vermin Lord is the fi rst adventure for Triple Ace Games’ epic fantasy setting, Hellfrost.
+The specter of famine stalks the northern Hearthlands.
